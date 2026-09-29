@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#090619">
+    <title>GAMEQUIZ | Concurso</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+    <header class="barra-superior">
+        <a class="marca" href="index.html" aria-label="GAMEQUIZ, inicio">
+            <span class="marca-acento">GAMEQUIZ</span>
+        </a>
+        <div class="detalles-juego">
+            <span class="insignia"><span aria-hidden="true">♙</span> Jugador: <strong id="jugador"></strong></span>
+        </div>
+    </header>
+
+    <main class="juego" aria-labelledby="titulo-juego">
+        <h1 id="titulo-juego" class="solo-lectores">Concurso GAMEQUIZ</h1>
+        <div id="mensaje" class="progreso" aria-live="polite"></div>
+
+        <section id="preguntas"></section>
+
+        <button id="comprobar" class="boton-principal">
+            Comprobar
+        </button>
+
+    </main>
+
+
+    <script src="js/juego.js"></script>
+
+</body>
+
+</html>
