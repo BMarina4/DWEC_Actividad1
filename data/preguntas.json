@@ -1,0 +1,442 @@
+[
+  {
+    "id": "1",
+    "pregunta": "¿Qué lenguaje se ejecuta principalmente en el navegador?",
+    "respuestas": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "correcta": "JavaScript"
+  },
+  {
+    "id": "2",
+    "pregunta": "¿Qué etiqueta HTML se utiliza para crear un enlace?",
+    "respuestas": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "correcta": "<a>"
+  },
+  {
+    "id": "3",
+    "pregunta": "¿Qué método se utiliza para seleccionar un elemento por su ID?",
+    "respuestas": [
+      "document.getElementById()",
+      "document.getElement()",
+      "document.selectId()",
+      "document.queryId()"
+    ],
+    "correcta": "document.getElementById()"
+  },
+  {
+    "id": "4",
+    "pregunta": "¿Qué formato se utiliza habitualmente para intercambiar datos?",
+    "respuestas": [
+      "JSON",
+      "HTML",
+      "CSS",
+      "TXT"
+    ],
+    "correcta": "JSON"
+  },
+  {
+    "id": "5",
+    "pregunta": "¿Qué palabra clave permite declarar una constante en JavaScript?",
+    "respuestas": [
+      "const",
+      "constant",
+      "fixed",
+      "letconst"
+    ],
+    "correcta": "const"
+  },
+  {
+    "id": "6",
+    "pregunta": "¿Qué función permite ejecutar código después de un tiempo determinado?",
+    "respuestas": [
+      "setTimeout()",
+      "setTime()",
+      "wait()",
+      "delay()"
+    ],
+    "correcta": "setTimeout()"
+  },
+  {
+    "id": "7",
+    "pregunta": "¿Qué lenguaje se utiliza principalmente para dar estilos a una página web?",
+    "respuestas": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Python"
+    ],
+    "correcta": "CSS"
+  },
+  {
+    "id": "8",
+    "pregunta": "¿Qué etiqueta HTML se utiliza para insertar una imagen?",
+    "respuestas": [
+      "<img>",
+      "<image>",
+      "<picture>",
+      "<src>"
+    ],
+    "correcta": "<img>"
+  },
+  {
+    "id": "9",
+    "pregunta": "¿Qué símbolo se utiliza para escribir un comentario de una línea en JavaScript?",
+    "respuestas": [
+      "//",
+      "##",
+      "<!--",
+      "**"
+    ],
+    "correcta": "//"
+  },
+  {
+    "id": "10",
+    "pregunta": "¿Qué tipo de dato representa un valor verdadero o falso?",
+    "respuestas": [
+      "Boolean",
+      "String",
+      "Number",
+      "Array"
+    ],
+    "correcta": "Boolean"
+  },
+  {
+    "id": "11",
+    "pregunta": "¿Qué propiedad CSS se utiliza para cambiar el color del texto?",
+    "respuestas": [
+      "color",
+      "text-color",
+      "font-color",
+      "foreground"
+    ],
+    "correcta": "color"
+  },
+  {
+    "id": "12",
+    "pregunta": "¿Qué etiqueta HTML se utiliza para crear un párrafo?",
+    "respuestas": [
+      "<p>",
+      "<paragraph>",
+      "<text>",
+      "<para>"
+    ],
+    "correcta": "<p>"
+  },
+  {
+    "id": "13",
+    "pregunta": "¿Qué método de JavaScript añade un elemento al final de un array?",
+    "respuestas": [
+      "push()",
+      "add()",
+      "append()",
+      "insert()"
+    ],
+    "correcta": "push()"
+  },
+  {
+    "id": "14",
+    "pregunta": "¿Qué operador se utiliza para comprobar igualdad estricta en JavaScript?",
+    "respuestas": [
+      "===",
+      "==",
+      "=",
+      "!=="
+    ],
+    "correcta": "==="
+  },
+  {
+    "id": "15",
+    "pregunta": "¿Qué estructura se utiliza para repetir un bloque de código mientras se cumpla una condición?",
+    "respuestas": [
+      "while",
+      "if",
+      "switch",
+      "try"
+    ],
+    "correcta": "while"
+  },
+  {
+    "id": "16",
+    "pregunta": "¿Qué comando de Git se utiliza para descargar un repositorio remoto?",
+    "respuestas": [
+      "git clone",
+      "git download",
+      "git get",
+      "git copy"
+    ],
+    "correcta": "git clone"
+  },
+  {
+    "id": "17",
+    "pregunta": "¿Qué protocolo se utiliza habitualmente para acceder a páginas web de forma segura?",
+    "respuestas": [
+      "HTTPS",
+      "FTP",
+      "HTTP",
+      "SSH"
+    ],
+    "correcta": "HTTPS"
+  },
+  {
+    "id": "18",
+    "pregunta": "¿Qué significa CPU?",
+    "respuestas": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Control Processing User"
+    ],
+    "correcta": "Central Processing Unit"
+  },
+  {
+    "id": "19",
+    "pregunta": "¿Qué componente almacena datos de forma permanente en un ordenador?",
+    "respuestas": [
+      "Disco SSD",
+      "RAM",
+      "CPU",
+      "GPU"
+    ],
+    "correcta": "Disco SSD"
+  },
+  {
+    "id": "20",
+    "pregunta": "¿Qué comando se utiliza normalmente para mostrar archivos y carpetas en Linux?",
+    "respuestas": [
+      "ls",
+      "dir",
+      "show",
+      "list"
+    ],
+    "correcta": "ls"
+  },
+  {
+    "id": "21",
+    "pregunta": "¿Qué etiqueta HTML se utiliza para crear un título principal?",
+    "respuestas": [
+      "<h1>",
+      "<title>",
+      "<header>",
+      "<heading>"
+    ],
+    "correcta": "<h1>"
+  },
+  {
+    "id": "22",
+    "pregunta": "¿Qué propiedad CSS se utiliza para cambiar el tamaño de la fuente?",
+    "respuestas": [
+      "font-size",
+      "text-size",
+      "size",
+      "font-height"
+    ],
+    "correcta": "font-size"
+  },
+  {
+    "id": "23",
+    "pregunta": "¿Qué palabra clave se utiliza para declarar una variable que puede cambiar en JavaScript?",
+    "respuestas": [
+      "let",
+      "varible",
+      "change",
+      "mutable"
+    ],
+    "correcta": "let"
+  },
+  {
+    "id": "24",
+    "pregunta": "¿Qué método convierte un objeto JavaScript en una cadena JSON?",
+    "respuestas": [
+      "JSON.stringify()",
+      "JSON.parse()",
+      "JSON.convert()",
+      "JSON.toString()"
+    ],
+    "correcta": "JSON.stringify()"
+  },
+  {
+    "id": "25",
+    "pregunta": "¿Qué método convierte una cadena JSON en un objeto JavaScript?",
+    "respuestas": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.object()",
+      "JSON.convert()"
+    ],
+    "correcta": "JSON.parse()"
+  },
+  {
+    "id": "26",
+    "pregunta": "¿Qué propiedad CSS se utiliza para establecer el color de fondo?",
+    "respuestas": [
+      "background-color",
+      "color-background",
+      "bg-color",
+      "background"
+    ],
+    "correcta": "background-color"
+  },
+  {
+    "id": "27",
+    "pregunta": "¿Qué método se utiliza para eliminar el último elemento de un array en JavaScript?",
+    "respuestas": [
+      "pop()",
+      "remove()",
+      "delete()",
+      "shift()"
+    ],
+    "correcta": "pop()"
+  },
+  {
+    "id": "28",
+    "pregunta": "¿Qué método elimina el primer elemento de un array en JavaScript?",
+    "respuestas": [
+      "shift()",
+      "pop()",
+      "removeFirst()",
+      "delete()"
+    ],
+    "correcta": "shift()"
+  },
+  {
+    "id": "29",
+    "pregunta": "¿Qué palabra clave se utiliza para definir una función en JavaScript?",
+    "respuestas": [
+      "function",
+      "def",
+      "func",
+      "method"
+    ],
+    "correcta": "function"
+  },
+  {
+    "id": "30",
+    "pregunta": "¿Qué operador se utiliza para asignar un valor a una variable?",
+    "respuestas": [
+      "=",
+      "==",
+      "===",
+      ":="
+    ],
+    "correcta": "="
+  },
+  {
+    "id": "31",
+    "pregunta": "¿Qué etiqueta HTML se utiliza para crear una lista desordenada?",
+    "respuestas": [
+      "<ul>",
+      "<ol>",
+      "<li>",
+      "<list>"
+    ],
+    "correcta": "<ul>"
+  },
+  {
+    "id": "32",
+    "pregunta": "¿Qué etiqueta HTML se utiliza para crear un elemento de una lista?",
+    "respuestas": [
+      "<li>",
+      "<item>",
+      "<ul>",
+      "<list-item>"
+    ],
+    "correcta": "<li>"
+  },
+  {
+    "id": "33",
+    "pregunta": "¿Qué propiedad CSS permite convertir un elemento en un contenedor Flexbox?",
+    "respuestas": [
+      "display: flex",
+      "flex: display",
+      "position: flex",
+      "layout: flex"
+    ],
+    "correcta": "display: flex"
+  },
+  {
+    "id": "34",
+    "pregunta": "¿Qué comando de Git muestra el estado actual del repositorio?",
+    "respuestas": [
+      "git status",
+      "git state",
+      "git check",
+      "git info"
+    ],
+    "correcta": "git status"
+  },
+  {
+    "id": "35",
+    "pregunta": "¿Qué comando de Git se utiliza para guardar cambios en el historial local?",
+    "respuestas": [
+      "git commit",
+      "git save",
+      "git push",
+      "git store"
+    ],
+    "correcta": "git commit"
+  },
+  {
+    "id": "36",
+    "pregunta": "¿Qué comando de Git se utiliza normalmente para enviar cambios a un repositorio remoto?",
+    "respuestas": [
+      "git push",
+      "git send",
+      "git upload",
+      "git publish"
+    ],
+    "correcta": "git push"
+  },
+  {
+    "id": "37",
+    "pregunta": "¿Qué estructura de datos almacena elementos en pares clave-valor en JavaScript?",
+    "respuestas": [
+      "Objeto",
+      "Array",
+      "String",
+      "Boolean"
+    ],
+    "correcta": "Objeto"
+  },
+  {
+    "id": "38",
+    "pregunta": "¿Qué método de JavaScript permite recorrer los elementos de un array?",
+    "respuestas": [
+      "forEach()",
+      "eachArray()",
+      "loop()",
+      "iterate()"
+    ],
+    "correcta": "forEach()"
+  },
+  {
+    "id": "39",
+    "pregunta": "¿Qué código de estado HTTP indica que una página o recurso no fue encontrado?",
+    "respuestas": [
+      "404",
+      "200",
+      "500",
+      "301"
+    ],
+    "correcta": "404"
+  },
+  {
+    "id": "40",
+    "pregunta": "¿Qué código de estado HTTP indica que una solicitud se realizó correctamente?",
+    "respuestas": [
+      "200",
+      "404",
+      "500",
+      "403"
+    ],
+    "correcta": "200"
+  }
+]
